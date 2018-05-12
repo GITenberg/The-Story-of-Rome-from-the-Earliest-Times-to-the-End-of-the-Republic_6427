@@ -1,4 +1,8 @@
 _repo: The-Story-of-Rome-from-the-Earliest-Times-to-the-End-of-the-Republic_6427
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gilman, Arthur
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2035'
     url: http://www.gutenberg.org/2009/agents/2035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6427#The-Story-of-Rome-from-the-Earliest-Times-to-the-End-of-the-Republic
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
